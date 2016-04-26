@@ -1,2 +1,2 @@
 # 8-1
-do skoly
+Small task from school in subject TEAP
